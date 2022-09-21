@@ -1,0 +1,14 @@
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.exe
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.deps.json
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.json
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.dev.json
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.dll
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.pdb
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfo.cs
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.dll
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.pdb
+C:\Users\GambAss\source\repos\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.genruntimeconfig.cache
